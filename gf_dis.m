@@ -5,3 +5,4 @@ ret = 0;
 if a ~= b
     ret = 1;
 end
+e
